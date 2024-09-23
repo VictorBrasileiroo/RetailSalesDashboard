@@ -2,7 +2,7 @@
 
 Este projeto cria um dashboard interativo para visualização e análise de dados de vendas no varejo. Utilizando o dataset de vendas, que inclui informações como ID de transações, datas, categorias de produtos, gênero, quantidade de produtos vendidos e faturamento, o dashboard permite explorar e entender as tendências de vendas ao longo do tempo e os padrões de compra dos clientes. 
 
-<img src="Group 12.png" alt=""><br>
+<img src="img.png" alt=""><br>
 
 ## **Funcionalidades Principais**
 - Filtros interativos por mês para explorar os dados.
