@@ -16,7 +16,7 @@ Este projeto cria um dashboard interativo para visualização e análise de dado
 - **Plotly**: Usado para gerar gráficos interativos.
   
 ## **Dataset**
-<a href='https://www.kaggle.com/datasets/mohammadtalib786/retail-sales-dataset'>Link para o Dataset</a><br>
+<a href='https://www.kaggle.com/datasets/mohammadtalib786/retail-sales-dataset'>Link para o Dataset</a><br><br>
 O dataset contém as seguintes colunas:
 - **Transaction ID**: ID único da transação.
 - **Date**: Data da transação.
